@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+
+Game Designer working in ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <!--
 **baguette88/baguette88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
