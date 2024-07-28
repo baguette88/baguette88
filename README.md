@@ -1,4 +1,4 @@
-Game Designer.
+Game Designer
 
  
 <!-- ......
